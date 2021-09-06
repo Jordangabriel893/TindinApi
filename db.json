@@ -1,0 +1,29 @@
+{
+  "emails": [
+    {
+      "email": "tester@tindin.com.br",
+      "senha": "tester123"
+    }
+  ],
+  "aulas": [
+    {
+      "titulo": "Lingua Portuguesa",
+      "descricao": "Romantismo",
+      "created": "xx/xx/xx",
+      "id": 1
+    },
+    {
+      "titulo": "Geografia",
+      "descricao": "Relevo",
+      "created": "xx/xx/xx",
+      "id": 2
+    },
+    {
+      "titulo": "Matemática",
+      "descricao": "Triangulo Retângulo",
+      "created": "xx/xx/xx",
+      "id": 3
+    }
+    
+  ]
+}
